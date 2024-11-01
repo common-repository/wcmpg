@@ -1,0 +1,1174 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wcmpg\n"
+"POT-Creation-Date: 2023-03-29 08:59+0200\n"
+"PO-Revision-Date: 2018-04-25 08:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wcmpg-licence.php:22 admin/class-wcmpg-licence.php:56
+msgid "Register your licence"
+msgstr ""
+
+#: admin/class-wcmpg-licence.php:25
+msgid ""
+"Configure your WCMPG pro license. This is not a real payment mode. You "
+"should keep it disabled."
+msgstr ""
+
+#: admin/class-wcmpg-licence.php:58
+msgid ""
+"You currently use the free version, <a href=\"https://ircf.fr/plugins-"
+"wordpress/\" target=\"_blank\">click here to purchase the pro version</a>."
+msgstr ""
+
+#: admin/class-wcmpg-licence.php:61
+msgid ""
+"You currently use the pro version, <a  href=\"https://ircf.fr/plugins-"
+"wordpress/\" target=\"_blank\">click here to get more information</a>."
+msgstr ""
+
+#: admin/class-wcmpg-licence.php:63
+msgid ""
+"You can contact our technical support by phone at <a href=\"tel:"
+"+33553467179\">+33 5 53 46 71 79</a> or by e-mail at <a href=\"mailto:"
+"technique@ircf.fr\">technique@ircf.fr</a>"
+msgstr ""
+
+#: admin/class-wcmpg-licence.php:81
+msgid "Enter your license number"
+msgstr ""
+
+#: admin/class-wcmpg-licence.php:84
+msgid "The license number is provided when you buy the pro version."
+msgstr ""
+
+#: admin/class-wcmpg-licence.php:106
+msgid "Unexpected Error! The query returned with an error."
+msgstr ""
+
+#: admin/settings.php:8
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/settings.php:10
+msgid "Enable the payment gateway."
+msgstr ""
+
+#: admin/settings.php:14
+msgid "Title"
+msgstr ""
+
+#: admin/settings.php:16
+msgid "Title of the payment gateway displayed on checkout page."
+msgstr ""
+
+#: admin/settings.php:17
+msgid "Payment Gateway"
+msgstr ""
+
+#: admin/settings.php:20
+msgid "Icon"
+msgstr ""
+
+#: admin/settings.php:22
+msgid "Icon of the payment gateway displayed on checkout page."
+msgstr ""
+
+#: admin/settings.php:26
+msgid "Customer Message"
+msgstr ""
+
+#: admin/settings.php:28
+msgid "Quick description of the payment method displayed on checkout page."
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Secure payment"
+msgstr ""
+
+#: admin/settings.php:32
+msgid "Detect language"
+msgstr ""
+
+#: admin/settings.php:34
+msgid ""
+"Detect language from wpml or polylang. WARNING : For SIPS you will have to "
+"create a pathfile/parmcom for each language (i.e : pathfile.en, parmcom."
+"sherlocks.en, pathfile.fr, parmcom.sherlocks.fr, etc.)"
+msgstr ""
+
+#: admin/settings.php:38
+msgid "Language"
+msgstr ""
+
+#: admin/settings.php:40
+msgid ""
+"Language used by the payment gateway (if not detected from wpml or polylang)"
+msgstr ""
+
+#: admin/settings.php:44
+msgid "French"
+msgstr ""
+
+#: admin/settings.php:45
+msgid "English"
+msgstr ""
+
+#: admin/settings.php:46
+msgid "Spanish"
+msgstr ""
+
+#: admin/settings.php:47
+msgid "Italian"
+msgstr ""
+
+#: admin/settings.php:48
+msgid "German"
+msgstr ""
+
+#: admin/settings.php:49
+msgid "Dutch"
+msgstr ""
+
+#: admin/settings.php:50
+msgid "Swedish"
+msgstr ""
+
+#: admin/settings.php:51
+msgid "Portuguese"
+msgstr ""
+
+#: admin/settings.php:52
+msgid "Japanese"
+msgstr ""
+
+#: admin/settings.php:53
+msgid "Chinese"
+msgstr ""
+
+#: admin/settings.php:57
+msgid "Currency"
+msgstr ""
+
+#: admin/settings.php:59
+msgid "Currency used by the shop."
+msgstr ""
+
+#: admin/settings.php:59
+msgid ""
+"We recommend to also change the currency in the Woocommerce's General "
+"settings."
+msgstr ""
+
+#: admin/settings.php:63
+msgid "Euro (&euro;)"
+msgstr ""
+
+#: admin/settings.php:64
+msgid "USA dollar ($)"
+msgstr ""
+
+#: admin/settings.php:65
+msgid "Pound sterling (&pound;)"
+msgstr ""
+
+#: admin/settings.php:66
+msgid "Australian dollar (&#8371;)"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Swiss franc (CHF)"
+msgstr ""
+
+#: admin/settings.php:68
+msgid "Swedish Krona (kr)"
+msgstr ""
+
+#: admin/settings.php:69
+msgid "Norwegian krone (kr)"
+msgstr ""
+
+#: admin/settings.php:70
+msgid "Japanese yen (&yen;)"
+msgstr ""
+
+#: admin/settings.php:71
+msgid "Danish krone (DKK)"
+msgstr ""
+
+#: admin/settings.php:72
+msgid "Canadian dollar (&#36;)"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "Czech koruna (K&#269;)"
+msgstr ""
+
+#: admin/settings.php:74
+msgid "Hungarian forint (Ft)"
+msgstr ""
+
+#: admin/settings.php:75
+msgid "Polish zloty (z&#322;)"
+msgstr ""
+
+#: admin/settings.php:76
+msgid "Russian rouble (&#8381;)"
+msgstr ""
+
+#: admin/settings.php:77
+msgid "Brazilian real (R&#36;)"
+msgstr ""
+
+#: admin/settings.php:78
+msgid "Hong Kong dollar (&#36;)"
+msgstr ""
+
+#: admin/settings.php:79
+msgid "Israeli shekel (&#8362;)"
+msgstr ""
+
+#: admin/settings.php:80
+msgid "Mexican peso (&#36;)"
+msgstr ""
+
+#: admin/settings.php:81
+msgid "Malaysian ringgit (RM)"
+msgstr ""
+
+#: admin/settings.php:82
+msgid "New Zealand dollar (&#36;)"
+msgstr ""
+
+#: admin/settings.php:83
+msgid "Philippine peso (&#8369;)"
+msgstr ""
+
+#: admin/settings.php:84
+msgid "Singapore dollar (&#36;)"
+msgstr ""
+
+#: admin/settings.php:85
+msgid "Thai baht (&#3647;)"
+msgstr ""
+
+#: admin/settings.php:90
+msgid "Successful Return Link"
+msgstr ""
+
+#: admin/settings.php:92
+msgid "Link when the transaction succeeds."
+msgstr ""
+
+#: admin/settings.php:96
+msgid "Failed Return Link"
+msgstr ""
+
+#: admin/settings.php:98
+msgid "Link when the transaction is refused by gateway."
+msgstr ""
+
+#: admin/settings.php:102
+msgid "Cancel Return Link"
+msgstr ""
+
+#: admin/settings.php:104
+msgid "Link when the client cancels the transaction."
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:34
+msgid "Proceed to Axepta"
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:37
+msgid "Axepta by BNP-Paribas"
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:69
+msgid "Axepta is a secure payment gateway powered by BNP Paribas."
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:88
+msgid "Merchant ID"
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:91
+msgid "The merchant ID provided by your payment gateway."
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:94
+msgid "HMAC Key"
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:97
+msgid "The HMAC key provided by your payment gateway."
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:100
+#: includes/mercanet/class-wcmpg-mercanet.php:106
+#: includes/monetico/class-wcmpg-monetico.php:95
+#: includes/paybox/class-wcmpg-paybox.php:154
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:129
+msgid "Secret key"
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:102
+msgid "The secret key provided by your payment gateway."
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:160
+msgid "Thank you for your order. You will be redirected on Axepta plateform."
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:160
+msgid "If nothing happens please click on the \"Axepta\" button below."
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:185
+#: includes/mercanet/class-wcmpg-mercanet.php:207
+#: includes/monetico/class-wcmpg-monetico.php:212
+#: includes/paybox/class-wcmpg-paybox.php:228
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:268
+#: includes/sips/class-wcmpg-sips.php:341
+#: includes/systempay/class-wcmpg-systempay.php:267
+msgid "Payment accepted"
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:188
+#: includes/mercanet/class-wcmpg-mercanet.php:210
+#: includes/monetico/class-wcmpg-monetico.php:215
+#: includes/paybox/class-wcmpg-paybox.php:231
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:271
+#: includes/sips/class-wcmpg-sips.php:344
+#: includes/systempay/class-wcmpg-systempay.php:270
+msgid "Payment refused"
+msgstr ""
+
+#: includes/axepta/class-wcmpg-axepta.php:193
+#: includes/mercanet/class-wcmpg-mercanet.php:215
+#: includes/paybox/class-wcmpg-paybox.php:236
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:276
+#: includes/sips/class-wcmpg-sips.php:349
+#: includes/systempay/class-wcmpg-systempay.php:275
+msgid "Unknown error"
+msgstr ""
+
+#: includes/functions.php:35
+msgid "Valid License Key! Details"
+msgstr ""
+
+#: includes/functions.php:36
+msgid "Item ID : "
+msgstr ""
+
+#: includes/functions.php:37
+msgid "Item Name : "
+msgstr ""
+
+#: includes/functions.php:38
+msgid "Buyer : "
+msgstr ""
+
+#: includes/functions.php:39
+msgid "License : "
+msgstr ""
+
+#: includes/functions.php:40
+msgid "Created At : "
+msgstr ""
+
+#: includes/functions.php:51
+msgid "You currently have the free licence."
+msgstr ""
+
+#: includes/functions.php:51
+msgid " To get the pro one, buy our plugin at :"
+msgstr ""
+
+#: includes/functions.php:53
+msgid "Invalid license key."
+msgstr ""
+
+#: includes/functions.php:53
+msgid "You can buy one at : "
+msgstr ""
+
+#: includes/functions.php:191
+msgid "Unknown file mime type : zip or tar expected"
+msgstr ""
+
+#: includes/functions.php:202
+msgid "File could not be uploaded, please check file permissions"
+msgstr ""
+
+#: includes/functions.php:217
+msgid "Unknown file extension : zip or tar expected"
+msgstr ""
+
+#: includes/functions.php:221
+msgid "Your folder was uploaded and unpacked. "
+msgstr ""
+
+#: includes/functions.php:223
+msgid "There was a problem with the upload. Please try again."
+msgstr ""
+
+#: includes/functions.php:297
+msgid "Request program not found, please check if the following file exists"
+msgstr ""
+
+#: includes/functions.php:304
+msgid ""
+"Request program is not executable, please check permissions on the following "
+"file"
+msgstr ""
+
+#: includes/functions.php:313
+msgid ""
+"Request program returned an empty string, please try to execute manually :"
+msgstr ""
+
+#: includes/functions.php:324
+msgid "Request program returned an error"
+msgstr ""
+
+#: includes/functions.php:325
+msgid "Error code : "
+msgstr ""
+
+#: includes/functions.php:326
+msgid "Error message :"
+msgstr ""
+
+#: includes/functions.php:332
+msgid "Response program not found, please check if the following file exists"
+msgstr ""
+
+#: includes/functions.php:339
+msgid ""
+"Response program is not executable, please check permissions on the "
+"following file"
+msgstr ""
+
+#: includes/functions.php:344
+msgid "It works!"
+msgstr ""
+
+#: includes/functions.php:367
+msgid "d/m/Y"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:46
+msgid "Proceed to Mercanet"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:49
+msgid ""
+"Mercanet is the payment solution by BNP-Paribas. This payment mode will be "
+"removed in a future version of WCMPG. Please consider using Sips Paysage "
+"Post instead."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:81
+msgid ""
+"Mercanet is a secure payment gateway powered by the french bank BNP Paribas."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:100
+#: includes/paybox/class-wcmpg-paybox.php:123
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:123
+#: includes/sips/class-wcmpg-sips.php:202
+#: includes/systempay/class-wcmpg-systempay.php:101
+msgid "Site ID"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:103
+#: includes/paybox/class-wcmpg-paybox.php:126
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:126
+#: includes/sips/class-wcmpg-sips.php:205
+#: includes/systempay/class-wcmpg-systempay.php:104
+msgid "The identifier provided by your payment gateway."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:108
+msgid "The secret key provided by Mercanet."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:112
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:135
+msgid "Key version"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:114
+msgid "The key version provided by Mercanet."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:118
+#: includes/monetico/class-wcmpg-monetico.php:119
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:154
+#: includes/systempay/class-wcmpg-systempay.php:113
+msgid "Mode"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:120
+#: includes/monetico/class-wcmpg-monetico.php:121
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:156
+msgid "Choose Testing to test the payment gateway."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:124
+#: includes/monetico/class-wcmpg-monetico.php:125
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:160
+#: includes/systempay/class-wcmpg-systempay.php:119
+msgid "Production"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:125
+#: includes/monetico/class-wcmpg-monetico.php:126
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:161
+#: includes/systempay/class-wcmpg-systempay.php:120
+msgid "Testing"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:126
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:162
+msgid "Simulation"
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:175
+msgid "Thank you for your order. You will be redirected on Mercanet plateform."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:175
+msgid "If nothing happens please click on the \"Mercanet\" button below."
+msgstr ""
+
+#: includes/mercanet/class-wcmpg-mercanet.php:203
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:264
+msgid "Invalid payment signature"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:26
+msgid "Proceed to Monetico"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:29
+msgid "Monetico is the payment solution by Crédit Mutuel and CIC."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:67
+#: includes/sips/class-wcmpg-sips.php:121
+msgid "Please send the following information to your bank support"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:68
+#: includes/sips/class-wcmpg-sips.php:122
+#: includes/systempay/class-wcmpg-systempay.php:75
+msgid "Automatic Return Link"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:83
+msgid "Societe"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:85
+msgid "Societe number."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:89
+msgid "TPE"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:91
+msgid "The private TPE key generated at the Monetico back office."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:97
+msgid "The private secret key generated at the Monetico back office."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:101
+#: includes/sips/class-wcmpg-sips.php:226
+msgid "Left image"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:103
+msgid "Left image on monetico paiement page."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:107
+#: includes/sips/class-wcmpg-sips.php:232
+msgid "Right image"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:109
+msgid "Right image monetico paiement page."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:113
+#: includes/sips/class-wcmpg-sips.php:238
+msgid "Center image"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:115
+msgid "Center image monetico paiement page."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:130
+#: includes/systempay/class-wcmpg-systempay.php:130
+msgid "Algorithm"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:132
+msgid ""
+"Algorithm used for signature computation (configured in the Monetico back-"
+"office)."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:136
+msgid "sha1"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:137
+msgid "md5"
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:180
+msgid "Thank you for your order. You will be redirected on Monetico plateform."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:180
+msgid " If nothing happens please click on the \"Monetico\" button below."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:191
+msgid "Monetico secret key must be filled in."
+msgstr ""
+
+#: includes/monetico/class-wcmpg-monetico.php:206
+msgid "Invalid mac signature, view logs for more info"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:75
+msgid "Proceed to Paybox"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:78
+msgid "Paybox System allows more than thirty payment means."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:109
+msgid ""
+"Authorizes the payments by credit card with the Paybox solution. It needs "
+"the signature of a distance selling contract from a bank compatible with "
+"Paybox."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:129
+msgid "Paybox ID"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:131
+msgid "The Paybox ID provided by PayBox."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:135
+msgid "Paybox Rank"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:137
+msgid "The Paybox Rank provided by PayBox."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:141
+msgid "Paybox Server"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:143
+msgid "Choose a testing or a production server."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:147
+msgid "Paybox Production"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:148
+msgid "Paybox Testing"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:149
+msgid "E-Transactions Production"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:150
+msgid "E-Transaction Testing"
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:156
+msgid "The private secret key generated at the Paybox back office."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:182
+msgid "Thank you for your order. You will be redirected on Paybox plateform."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:182
+msgid "If nothing happens please click on the \"Paybox\" button below."
+msgstr ""
+
+#: includes/paybox/class-wcmpg-paybox.php:210
+msgid "Paybox secret key must be filled in."
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:23
+msgid "Proceed to Paypal"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:26
+msgid "Paypal is the most popular payment mean."
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:55
+msgid ""
+"PayPal standard sends customers to PayPal to enter their payment information."
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:69
+msgid "Email"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:72
+msgid "Email of the seller."
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:75
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:77
+msgid "Enable PayPal Sandbox"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:79
+msgid ""
+"The sandbox is PayPal's test environment and is only for use with sandbox "
+"accounts created within your"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:79
+msgid " PayPal developer account"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:82
+msgid "Options for Sandbox"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:87
+msgid "Sandbox API User Name"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:90
+#: includes/paypal/class-wcmpg-paypal.php:96
+#: includes/paypal/class-wcmpg-paypal.php:103
+#: includes/paypal/class-wcmpg-paypal.php:114
+#: includes/paypal/class-wcmpg-paypal.php:120
+#: includes/paypal/class-wcmpg-paypal.php:126
+#: includes/paypal/class-wcmpg-paypal.php:138
+#: includes/paypal/class-wcmpg-paypal.php:157
+msgid "Optional"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:93
+msgid "Sandbox API Password"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:99
+msgid "Sandbox API Signature"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:106
+msgid "Options for the API"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:111
+msgid "Live API User Name"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:117
+msgid "Live API Password"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:123
+msgid "Live API Signature"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:129
+msgid "Advanced options"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:134
+msgid "Page Style"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:136
+msgid ""
+"Optionally enter the name of the page style you wish to use. These are "
+"defined within your PayPal account."
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:141
+msgid "Payment Action"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:144
+msgid ""
+"Choose whether you wish to capture funds immediately or authorize payment "
+"only."
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:147
+msgid "Capture"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:148
+msgid "Authorize"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:149
+msgid "Order"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:153
+msgid "Invoice Prefix"
+msgstr ""
+
+#: includes/paypal/class-wcmpg-paypal.php:155
+msgid ""
+"Please enter a prefix for your invoice numbers. If you use your PayPal "
+"account for multiple stores ensure this prefix is unique as PayPal will not "
+"allow orders with the same invoice number."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:69
+msgid "Proceed to Sips Paypage Post"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:72
+msgid ""
+"Sips Paypage Post, also called Sips 2.0, is the new version of Sips 1.0, "
+"used by Sherlocks by LCL, Mercanet by BNP-Paribas, Scellius by La Banque "
+"Postale or Sogenactif by Société Générale."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:104
+msgid "Sips Paypage Post is a secure payment gateway powered by ATOS."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:131
+msgid "The secret key provided by Sips Paypage Post."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:137
+msgid "The key version provided by Sips Paypage Post."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:141
+#: includes/systempay/class-wcmpg-systempay.php:90
+msgid "Bank"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:143
+#: includes/systempay/class-wcmpg-systempay.php:92
+msgid "Your bank."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:147
+msgid "Mercanet by BNP-Paribas"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:148
+msgid "Sherlocks by LCL"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:149
+msgid "Scellius by La Banque Postale"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:150
+#: includes/systempay/class-wcmpg-systempay.php:97
+msgid "Sogenactif by Société Générale"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:166
+msgid "Interface version"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:168
+msgid "Enter the version number given in the Sips Paypage Post documentation."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:172
+msgid "Send transaction reference ?"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:174
+msgid ""
+"Should WCMPG send a unique transaction reference to the bank server ? If you "
+"have an error try switching this parameter on/off"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:178
+msgid "Enable migration mode"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:180
+msgid ""
+"You should enable this is your bank uses the v1.0 mode. If you have an error "
+"try switching this parameter on/off"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:205
+#: includes/systempay/class-wcmpg-systempay.php:164
+msgid "invalid bank"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:209
+msgid "invalid mode"
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:236
+msgid ""
+"Thank you for your order. You will be redirected on Sips Paypage Post "
+"plateform."
+msgstr ""
+
+#: includes/sips-paypage-post/class-wcmpg-sips-paypage-post.php:236
+msgid ""
+"If nothing happens please click on the \"Sips Paypage Post\" button below."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:46
+msgid "Proceed to Sips"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:49
+msgid ""
+"France based ATOS Worldline SIPS is the leading secure payment solution in "
+"Europe. Atos works by sending the user to your bank to enter their payment "
+"information."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:135
+msgid ""
+"The SIPS kit is not installed. You have to upload the kit given by your bank "
+"to enable this payment gateway."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:136
+#: includes/sips/class-wcmpg-sips.php:147
+msgid "Install SIPS kit"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:144
+msgid "Reinstall SIPS kit"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:145
+msgid ""
+"SIPS kit is already installed. You can reinstall it if needed but it's not "
+"recommended."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:148
+msgid "SIPS kit is not installed."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:150
+msgid ""
+"The SIPS kit can be downloaded from your bank back-office. Then upload it on "
+"your website using the button below. The kit version depends on your server, "
+"most of the time it will be \"Linux 64 bits PHP version\"."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:151
+msgid "Choose a compressed folder to upload (.zip / .tar) : "
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:158
+msgid "Test your SIPS install"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:159
+msgid ""
+"Click on the button to test your Atos Sips API (save your changes before) "
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:169
+msgid ""
+"Once the test is successful you have to pass an order with a real bank card "
+"while your certificate is in pre-production and then ask your bank to pass "
+"it in production."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:170
+msgid ""
+"IMPORTANT : While your certificate is in pre-production WooCommerce won't "
+"receive any payment notification."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:208
+msgid "Pathfile file"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:210
+msgid "Path to the pathfile file given by your bank."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:214
+msgid "Request bin file path"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:216
+msgid "Path to the request bin file given by your bank."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:220
+msgid "Response bin file path"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:222
+msgid "Path to the response bin file given by your bank."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:228
+msgid "Left image on Sips paiement page."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:234
+msgid "Right image Sips paiement page."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:240
+msgid "Center image Sips paiement page."
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:313
+msgid "Error : request not found"
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:315
+msgid "Error : "
+msgstr ""
+
+#: includes/sips/class-wcmpg-sips.php:317
+msgid "Thank you for your order, please click the button below to pay."
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:31
+msgid "Proceed to Systempay"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:34
+msgid ""
+"SystemPay is used by Cyberplus Paiement by Banque Populaire and SP PLUS by "
+"Caisse d'Epargne."
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:68
+msgid ""
+"Authorizes the payments by credit card with the systempay solution. It needs "
+"the signature of a distance selling contract from a bank compatible with "
+"Systempay."
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:74
+msgid "Please enter the following information into you bank back-office"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:96
+msgid "Systempay"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:107
+msgid "Certificat"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:109
+msgid "The certificat provided by Systempay."
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:115
+msgid "The context mode of this module."
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:124
+msgid "Payment means in use"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:126
+msgid "Ex : CB;CVCONNECT;PAYLIB;MASTERCARD;VISA"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:132
+msgid ""
+"Algorithm used for signature computation (configured in the Systempay back-"
+"office)."
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:136
+msgid "SHA-1"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:137
+msgid "HMAC-SHA-256"
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:240
+msgid ""
+"Thank you for your order. You will be redirected on SystemPay plateform."
+msgstr ""
+
+#: includes/systempay/class-wcmpg-systempay.php:240
+msgid "If nothing happens please click on the \"SystemPay\" button below."
+msgstr ""
+
+#: wcmpg.php:43
+msgid ""
+"WooCommerce must be installed and activated in order to use this plugin !"
+msgstr ""
+
+#: wcmpg.php:48
+msgid "An error as occured with WooCommerce: can not find gateway methods..."
+msgstr ""
+
+#: wcmpg.php:112
+msgid "You currently use the free licence of WCMPG."
+msgstr ""
+
+#: wcmpg.php:115
+msgid "Don't show this anymore"
+msgstr ""
+
+#: wcmpg.php:119
+msgid "You can register your license "
+msgstr ""
+
+#: wcmpg.php:120 wcmpg.php:123
+msgid "here"
+msgstr ""
+
+#: wcmpg.php:122
+msgid "If you didn't buy the plugin, you can get the pro version "
+msgstr ""
